@@ -10,7 +10,7 @@ public class Main {
         Rect.draw();
         Shape Tri = fac.getShape("Triangle");
         Tri.draw();
-        asdas
+
 
 
     }
